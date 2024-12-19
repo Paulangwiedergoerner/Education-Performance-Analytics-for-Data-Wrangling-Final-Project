@@ -1,0 +1,13 @@
+parental_level_of_education,test_preparation_course,Percentage
+"associate's degree",False,11.96
+"associate's degree",True,7.13
+"bachelor's degree",False,8.39
+"bachelor's degree",True,5.24
+"high school",False,12.27
+"high school",True,7.67
+"master's degree",False,4.34
+"master's degree",True,2.78
+"some college",False,13.69
+"some college",True,9.09
+"some high school",False,10.57
+"some high school",True,6.87
